@@ -22,27 +22,13 @@ I'm a MERN stack enthusiast with a love for creating dynamic, responsive web app
 ## GitHub Stats and Highlights
 
 📊 **GitHub Stats:**
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEVINJK&show_icons=true&theme=radical)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnkevincsjk&show_icons=true&theme=radical)
 
 💻 **Top Languages:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KEVINJK&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkevincsjk&layout=compact&theme=radical)
 
 🔥 **Contribution Streak:**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KEVINJK&theme=radical)
-
----
-
-## 🚀 Projects
-
-### 🌐 [Project Name](link-to-project-repo)
-A brief description of the project. Highlight the technologies used and any unique features.
-- **Tech Stack:** MongoDB, Express, React, Node.js
-
-### 🔧 [Another Project](link-to-another-project-repo)
-Another project description.
-- **Tech Stack:** MongoDB, Express, React, Node.js
-
-![Project Screenshot](link-to-image-or-gif)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnkevincsjk&theme=radical)
 
 ---
 
@@ -56,4 +42,4 @@ Another project description.
 ---
 
 👁️ **Profile Views:**
-![Profile Views](https://komarev.com/ghpvc/?username=KEVINJK&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=johnkevincsjk&color=brightgreen)
