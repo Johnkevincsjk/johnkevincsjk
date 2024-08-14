@@ -35,9 +35,9 @@ I'm a MERN stack enthusiast with a love for creating dynamic, responsive web app
 ## 🌍 Connect with Me
 
 📫 **Get in touch:**
-- ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/johnkevin-csjk/)
-- [Portfolio](https://main--kevin-s-portfolio1.netlify.app/#skills)
-- [Email](mailto:johnkevin.csjk@gmail.com)
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnkevin-csjk/)
+ [Portfolio](https://main--kevin-s-portfolio1.netlify.app/#skills)
+ [Email](mailto:johnkevin.csjk@gmail.com)
 
 ---
 
