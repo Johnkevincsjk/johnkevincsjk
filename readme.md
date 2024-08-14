@@ -10,7 +10,7 @@ Hi there! I'm **John Kevin**, a passionate MERN Full Stack Developer. I recently
 I'm a MERN stack enthusiast with a love for creating dynamic, responsive web applications. I’m continuously learning and experimenting with new technologies.
 
 ### My Skills:
-<p align="center">
+<p align="center" justify-content="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>    
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>    
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
