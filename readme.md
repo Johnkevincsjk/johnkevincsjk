@@ -44,5 +44,5 @@ I'm a MERN stack enthusiast with a love for creating dynamic, responsive web app
 [<img width="64" height="64" src="https://img.icons8.com/nolan/64/portfolio.png" alt="portfolio"/>](https://main--kevin-s-portfolio1.netlify.app/#skills)
 
 
-👁️ **Profile Views:**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=johnkevincsjk&color=brightgreen)
