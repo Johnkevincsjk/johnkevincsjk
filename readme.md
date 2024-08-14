@@ -15,6 +15,8 @@ I'm a MERN stack enthusiast with a love for creating dynamic, responsive web app
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>    
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 </p>
 
 🎓 **Education**
