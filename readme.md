@@ -10,10 +10,12 @@ Hi there! I'm **John Kevin**, a passionate MERN Full Stack Developer. I recently
 I'm a MERN stack enthusiast with a love for creating dynamic, responsive web applications. I’m continuously learning and experimenting with new technologies.
 
 ### My Skills:
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt="javascript-logo"/>    
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>    
-<img width="50" height="50" src="https://img.icons8.com/ios/50/000000/css3.png" alt="css3"/>   
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/>
+<p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>    
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>    
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/000000/css3.png" alt="css3"/>   
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/>
+</p>
 
 🎓 **Education**
 - Completed a Full Stack Development course from **Guvi IIT**.
