@@ -31,8 +31,6 @@ I'm a MERN stack enthusiast with a love for creating dynamic, responsive web app
 
 ## GitHub Stats and Highlights
 
-📊 **GitHub Stats:**
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnkevincsjk&show_icons=true&theme=radical)
 
 💻 **Top Languages:**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkevincsjk&layout=compact&theme=radical)
@@ -43,9 +41,10 @@ I'm a MERN stack enthusiast with a love for creating dynamic, responsive web app
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnkevin-csjk/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnkevin.csjk@gmail.com)
-[<img width="64" height="64" src="https://img.icons8.com/nolan/64/portfolio.png" alt="portfolio"/>](https://main--kevin-s-portfolio1.netlify.app/#skills)
 
 ---
+[<img width="64" height="64" src="https://img.icons8.com/nolan/64/portfolio.png" alt="portfolio"/>](https://main--kevin-s-portfolio1.netlify.app/#skills)
+
 
 👁️ **Profile Views:**
 ![Profile Views](https://komarev.com/ghpvc/?username=johnkevincsjk&color=brightgreen)
