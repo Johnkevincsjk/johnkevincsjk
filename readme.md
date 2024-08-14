@@ -33,7 +33,7 @@ I'm a MERN stack enthusiast with a love for creating dynamic, responsive web app
 
 
 💻 **Top Languages:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkevincsjk&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkevincsjk&layout=compact&theme=radical)
 
 ---
 
