@@ -19,6 +19,8 @@ I'm a MERN stack enthusiast with a love for creating dynamic, responsive web app
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
   <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwind-css" />
+
 </p>
 
 🎓 **Education**
